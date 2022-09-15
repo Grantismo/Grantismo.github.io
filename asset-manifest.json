@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://www.polygonle.com/static/css/main.258d5931.css",
-    "main.js": "https://www.polygonle.com/static/js/main.47ad6e7b.js",
-    "static/js/787.b3f9d252.chunk.js": "https://www.polygonle.com/static/js/787.b3f9d252.chunk.js",
-    "index.html": "https://www.polygonle.com/index.html",
-    "main.258d5931.css.map": "https://www.polygonle.com/static/css/main.258d5931.css.map",
-    "main.47ad6e7b.js.map": "https://www.polygonle.com/static/js/main.47ad6e7b.js.map",
-    "787.b3f9d252.chunk.js.map": "https://www.polygonle.com/static/js/787.b3f9d252.chunk.js.map"
+    "main.css": "https://grantismo.github.io/static/css/main.258d5931.css",
+    "main.js": "https://grantismo.github.io/static/js/main.4f5785d7.js",
+    "static/js/787.b3f9d252.chunk.js": "https://grantismo.github.io/static/js/787.b3f9d252.chunk.js",
+    "index.html": "https://grantismo.github.io/index.html",
+    "main.258d5931.css.map": "https://grantismo.github.io/static/css/main.258d5931.css.map",
+    "main.4f5785d7.js.map": "https://grantismo.github.io/static/js/main.4f5785d7.js.map",
+    "787.b3f9d252.chunk.js.map": "https://grantismo.github.io/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.258d5931.css",
-    "static/js/main.47ad6e7b.js"
+    "static/js/main.4f5785d7.js"
   ]
 }
