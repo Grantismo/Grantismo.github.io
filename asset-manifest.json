@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://grantismo.github.io/static/css/main.25b73a91.css",
-    "main.js": "https://grantismo.github.io/static/js/main.49d7f930.js",
+    "main.js": "https://grantismo.github.io/static/js/main.19baf60d.js",
     "static/js/787.6a541d2d.chunk.js": "https://grantismo.github.io/static/js/787.6a541d2d.chunk.js",
     "static/media/100.png": "https://grantismo.github.io/static/media/100.d800fa42d7b46c997258.png",
     "static/media/1000.png": "https://grantismo.github.io/static/media/1000.9b799dc7dde9968874a4.png",
@@ -39,11 +39,11 @@
     "static/media/2.svg": "https://grantismo.github.io/static/media/2.ad012de8e3d263b873052625f38ce4d1.svg",
     "static/media/4.svg": "https://grantismo.github.io/static/media/4.5569f5266284498bfe7eb6ae0b54c862.svg",
     "main.25b73a91.css.map": "https://grantismo.github.io/static/css/main.25b73a91.css.map",
-    "main.49d7f930.js.map": "https://grantismo.github.io/static/js/main.49d7f930.js.map",
+    "main.19baf60d.js.map": "https://grantismo.github.io/static/js/main.19baf60d.js.map",
     "787.6a541d2d.chunk.js.map": "https://grantismo.github.io/static/js/787.6a541d2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25b73a91.css",
-    "static/js/main.49d7f930.js"
+    "static/js/main.19baf60d.js"
   ]
 }
